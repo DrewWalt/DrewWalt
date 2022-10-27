@@ -1,4 +1,4 @@
-![Drew Walton]()
+![Drew Walton](https://github.com/DrewWalt/DrewWalt/blob/main/Drew%20Walton.gif)
 
 <p align="center">
 Recent graduate looking to begin my career as a software developer.
