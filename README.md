@@ -1,5 +1,5 @@
 <p allign="center">
- <img src="https://github.com/DrewWalt/DrewWalt/blob/main/Drew%20Walton.gif"/>
+ <img src="https://github.com/DrewWalt/DrewWalt/blob/main/logo.png"/>
 </p>
 
 <p align="center">
