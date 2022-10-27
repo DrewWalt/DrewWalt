@@ -1,5 +1,5 @@
 <p allign="center">
- <img src="https://github.com/DrewWalt/DrewWalt/blob/main/logo.png"/>
+ <img src="https://github.com/DrewWalt/DrewWalt/blob/main/logo.svg"/>
 </p>
 
 <p align="center">
